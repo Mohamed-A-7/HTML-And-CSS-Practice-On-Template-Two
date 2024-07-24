@@ -22,7 +22,7 @@ This repository contains a practice project for HTML and CSS, focusing on creati
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Mohamed-Ali-99/HTML-And-CSS-Practice-On-Template-Two.git
+    git clone https://github.com/Mohamed-A-7/HTML-And-CSS-Practice-On-Template-Two.git
     ```
 2. Open `index.html` in a web browser to view the webpage.
 3. [Live Demo](https://mohamed-a-7.github.io/HTML-And-CSS-Practice-On-Template-Two/)
