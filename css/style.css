@@ -464,6 +464,9 @@ header nav .toggle-menu {
     width: fit-content;
     margin: 20px auto 0;
     padding: 3px 23px;
+    display: block;
+    color: white;
+    text-decoration: none;
 }
 /* End Video */
 /* Start About */
@@ -669,7 +672,7 @@ header nav .toggle-menu {
     text-align: center;
 }
 .pricing .pricing-plans ul {
-    background-color: #eee;
+    background-color: #f9f9f9;
 }
 .pricing .pricing-plans ul li.pricing-head {
     border-top: 1px solid var(--main-color);
