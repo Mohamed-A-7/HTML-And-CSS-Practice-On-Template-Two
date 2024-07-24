@@ -777,6 +777,7 @@ header nav .toggle-menu {
     padding: 20px 20px 20px 60px;
     caret-color: var(--main-color);
     width: calc(100% - 130px);  
+    color: white;
 }
 .sub form [type="button"] {
     width: 130px;
