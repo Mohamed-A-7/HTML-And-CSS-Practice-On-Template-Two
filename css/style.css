@@ -126,9 +126,17 @@ header .container {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    border-bottom: 1px solid var(--second-color);
     position: relative;
     height: 100%;
+}
+header .container::after {
+    content: "";
+    height: 1px;
+    width: calc(100% - 30px);
+    background-color: red;
+    position: absolute;
+    left: 15px;
+    bottom: 0;
 }
 header nav {
     display: flex;
@@ -155,6 +163,8 @@ header nav ul li a {
     display: block;
     color: white;
     transition: var(--main-transition);
+    position: relative;
+    z-index: 1;
 }
 header nav ul li a:hover {
     color: var(--main-color);
@@ -210,6 +220,11 @@ header nav .toggle-menu {
     transform: translateY(-50%);
     padding: 50px 50px 50px 100px;
     line-height: 1.8;
+}
+@media (max-width: 767px) {
+    .landing .text {
+        width: 100%;
+    }
 }
 .landing::after {
     content: "\f054";
