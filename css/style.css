@@ -133,7 +133,7 @@ header .container::after {
     content: "";
     height: 1px;
     width: calc(100% - 30px);
-    background-color: red;
+    background-color: var(--second-color);
     position: absolute;
     left: 15px;
     bottom: 0;
