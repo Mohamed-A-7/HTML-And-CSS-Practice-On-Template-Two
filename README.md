@@ -1,22 +1,28 @@
-# HTML and CSS Practice - Template Two
+# HTML and CSS Practice - Leon Template Two
 
 ## Overview
 
-This repository contains a practice project for HTML and CSS, focusing on creating a responsive template. The purpose of this project is to enhance skills in front-end development by implementing a static webpage with various layout and design elements.
+This repository contains a practice project for HTML and CSS, focusing on building a visually appealing and responsive website template. The Leon Template Two is designed to demonstrate advanced front-end development skills, making it suitable for various types of websites, including personal portfolios, business sites, or creative agency pages.
 
 ## Project Structure
 
-- **index.html**: The main HTML file containing the structure of the webpage.
-- **styles.css**: The CSS file that styles the HTML elements to create the desired look and feel.
-- **images/**: A directory containing all images used in the project.
+- **index.html**: The main HTML file that structures the webpage's content and layout.
+- **styles.css**: The CSS file that defines the styling and visual presentation of the webpage.
+- **images/**: A directory containing all the images used in the project, contributing to the overall design and aesthetics.
 
 ## Features
 
-- **Responsive Design**: The template is designed to be responsive and adapts to different screen sizes. However, there may be issues where the screen shifts horizontally. This can be resolved by ensuring that elements do not exceed the viewport width and by using media queries effectively.
-- **Navigation Bar**: A fixed navigation bar that adjusts based on the screen size.
-- **Hero Section**: A prominent hero section with a background image and overlay text.
-- **Services Section**: A section that showcases different services or features with icons and descriptions.
-- **Contact Section**: A section with contact information and social media links.
+- **Responsive Design**: The template is fully responsive, ensuring that the website looks great on all devices, from mobile phones to large desktops. The layout is carefully designed with flexible grids and media queries to maintain a consistent and user-friendly experience.
+
+- **Fixed Navigation Bar**: A fixed navigation bar at the top of the page provides easy access to different sections of the website. It is designed to be fully responsive, adjusting smoothly to various screen sizes.
+
+- **Hero Section**: The hero section features a large background image, overlay text, and a call-to-action button, designed to immediately engage visitors.
+
+- **About Section**: A section that provides information about the site, company, or individual. This section is styled with attention to typography and layout, ensuring clear communication.
+
+- **Portfolio Section**: A showcase of projects or works in a grid layout, with each item accompanied by an image and a brief description, allowing visitors to easily explore the content.
+
+- **Contact Section**: Includes contact details and social media links, facilitating easy communication with visitors.
 
 ## Usage
 
